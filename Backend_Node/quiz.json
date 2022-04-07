@@ -1,0 +1,542 @@
+[
+  {
+    "surveyname": "mfq",
+    "questiontext": "Caring for people who have suffered is an important virtue.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_1",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I believe that compassion for those who are suffering is one of the most crucial virtues.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_2",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "We should all care for people who are in emotional pain.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_3",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I am empathetic toward those people who have suffered in their lives.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_4",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "Everyone should try to comfort people who are going through something hard.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_5",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "It pains me when I see someone ignoring the needs of another human being.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_6",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "The world would be a better place if everyone made the same amount of money.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_7",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "Our society would have fewer problems if people had the same income.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_8",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I believe that everyone should be given the same quantity of resources in life.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_9",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I believe it would be ideal if everyone in society wound up with roughly the same amount of money.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_10",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "When people work together toward a common goal, they should share the rewards equally, even if some worked harder on it.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_11",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I get upset when some people have a lot more money than others in my country.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_12",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think people who are more hard-working should end up with more money.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_13",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think people should be rewarded in proportion to what they contribute.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_14",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "The effort a worker puts into a job ought to be reflected in the size of a raise they receive.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_15",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "It makes me happy when people are recognized on their merits.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_16",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "In a fair society, those who work hard should live with higher standards of living.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_17",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I feel good when I see cheaters get caught and punished.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_18",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think children should be taught to be loyal to their country.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_19",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "It upsets me when people have no loyalty to their country.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_20",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "Everyone should love their own community.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_21",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "Everyone should defend their country, if called upon.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_22",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "Everyone should feel proud when a person in their community wins in an international competition.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_23",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I believe the strength of a sports team comes from the loyalty of its members to each other.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_24",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think it is important for societies to cherish their traditional values.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_25",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I feel that most traditions serve a valuable function in keeping society orderly",
+    "scaletype": "radiogroup",
+    "varname": "mfq_26",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think obedience to parents is an important virtue.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_27",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "We all need to learn from our elders.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_28",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I believe that one of the most important values to teach children is to have respect for authority.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_29",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think having a strong leader is good for society.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_30",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I think the human body should be treated like a temple, housing something sacred within.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_31",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I believe chastity is an important virtue.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_32",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "It upsets me when people use foul language like it is nothing.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_33",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "If I found out that an acquaintance had an unusual but harmless sexual fetish I would feel uneasy about them",
+    "scaletype": "radiogroup",
+    "varname": "mfq_34",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "People should try to use natural medicines rather than chemically identical human-made ones.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_35",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  },
+  {
+    "surveyname": "mfq",
+    "questiontext": "I admire people who keep their virginity until marriage.",
+    "scaletype": "radiogroup",
+    "varname": "mfq_36",
+    "options": [
+      "Strongly Disagree",
+      "Disagree",
+      "Slightly Disagree",
+      "Netural",
+      "Slightly Agree",
+      "Agree",
+      "Strongly Agree"
+    ]
+  }
+]
